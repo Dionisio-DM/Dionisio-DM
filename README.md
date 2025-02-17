@@ -11,11 +11,6 @@
 - 📊 Turning complex data into **beautiful charts** (Recharts fan here!)  
 - 🤖 Automating workflows with **smart APIs**  
 
-### 🌱 **I’m currently learning...**  
-- 🔐 Advanced backend patterns with **Node.js**  
-- ☁️ Cloud deployment strategies (**AWS/Docker**)  
-- � **Testing frameworks** for bulletproof code (Vitest/Zod)  
-
 ### 💞️ **I’m looking to collaborate on...**  
 - 🧩 Open-source projects with **clean architecture**  
 - 💡 Innovative tools for **task management** or **financial tech**  
