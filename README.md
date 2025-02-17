@@ -6,8 +6,7 @@
 ---
 
 ### 🎯 **I’m interested in...**  
-- 🚀 Building **scalable web apps** (TypeScript/React lover)  
-- 🎨 Designing **intuitive interfaces** that make users smile 😊  
+- 🚀 Building **scalable web apps** (TypeScript/React lover) 
 - 📊 Turning complex data into **beautiful charts** (Recharts fan here!)  
 - 🤖 Automating workflows with **smart APIs**  
 
