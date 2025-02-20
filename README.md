@@ -8,7 +8,7 @@
 
 ### Reach Me:
 <div>
-<a href="dionisiodiogenesmacedo@gmail.com" target="_blank">
+<a href="mailto:dionisiodiogenesmacedo@gmail.com" target="_blank">
  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
